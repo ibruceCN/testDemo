@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div class="h5share_panel">
+    <a data-type="qq" href="share_qq://">QQ</a>
+    <a data-type="wb" href="share_wb:">wb</a>
+    <a data-type="yx" href="share_yx:">YX</a>
+    <a data-type="wx" href="share_wx:">WX</a>
+    <a data-type="wxzone" href="share_wxzone:">wxzone</a>
+</div>
+</body>
+</html>
